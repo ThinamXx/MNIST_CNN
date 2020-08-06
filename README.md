@@ -40,5 +40,4 @@ Learner(data, model, loss_func=nn.CrossEntropyLoss(), metrics=accuracy)
 ```
 **Snapshot of Accuracy Score:**
 - **Fastai** is so powerful as the accuracy score in MNIST is about 99%
-
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596015604/Fast_pdnngm.png)
